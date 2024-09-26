@@ -1,15 +1,21 @@
 body {
-    background-color: rgb(235, 245, 235);
+    background-color: rgb(208, 222, 208);
+    font-size: 20px;
+    font-family: Tahoma;
 }
 .jmeno {
     background-color: azure;
+
 }
 h1 {
     color:rgb(28, 101, 91);
     font-size: 60px;
+    font-family: Georgia;
 }
 
 
 h2 {
     color:rgb(28, 101, 91);
+    font-family: Georgia;
+    Font-size: 30px;
 }
