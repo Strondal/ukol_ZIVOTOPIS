@@ -1,10 +1,15 @@
-h1 {
-    color:brown;
-}
-
-h2 {
-    color:brown;
+body {
+    background-color: rgb(235, 245, 235);
 }
 .jmeno {
-    background-color: antiquewhite;
+    background-color: azure;
+}
+h1 {
+    color:rgb(28, 101, 91);
+    font-size: 60px;
+}
+
+
+h2 {
+    color:rgb(28, 101, 91);
 }
