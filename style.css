@@ -5,6 +5,7 @@ body {
 }
 .jmeno {
     background-color: azure;
+    display: inline;
 
 }
 h1 {
@@ -15,7 +16,7 @@ h1 {
 
 
 h2 {
-    color:rgb(28, 101, 91);
+    color: rgb(28, 101, 91);
     font-family: Georgia;
     Font-size: 30px;
 }
@@ -32,5 +33,6 @@ img {
 .dovednosti {
     background-color: rgb(208, 222, 208);
     border-radius: 30px;
-    padding:
+    Margin: 15px;
+    padding: 15px;
 }
