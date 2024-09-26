@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(208, 222, 208);
+    background-color: azure;
     font-size: 20px;
     font-family: Tahoma;
 }
@@ -18,4 +18,19 @@ h2 {
     color:rgb(28, 101, 91);
     font-family: Georgia;
     Font-size: 30px;
+}
+
+img {
+   width: 15%; 
+   border-radius: 30%;
+}
+
+.kdojsem, 
+.kontakt,
+.pracovnizkusenosti,
+.vzdelani,
+.dovednosti {
+    background-color: rgb(208, 222, 208);
+    border-radius: 30px;
+    padding:
 }
