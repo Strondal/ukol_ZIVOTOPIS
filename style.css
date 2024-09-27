@@ -36,3 +36,9 @@ img {
     Margin: 15px;
     padding: 15px;
 }
+a:hover {
+    color:green
+}
+a:visited {
+    color:rgb(81, 31, 64)
+}
